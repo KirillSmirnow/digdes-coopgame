@@ -1,1 +1,1 @@
-# digdes-coopgame
+# Cooperation Game
